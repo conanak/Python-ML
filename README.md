@@ -12,6 +12,5 @@ Functions
 Offline Open In Colab
 
 Python 01 - Data Structures, Conditions, Branching & Loops
-
 Python 02 - Functions in Python
 ---------------------------------------------------------------
